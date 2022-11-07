@@ -4,7 +4,7 @@ const { Routes } = require('discord-api-types/v9')
 const fs = require('fs')
 
 module.exports = (client) => {
-    client.commands = async () => {
+    client.Commands = async () => {
         const commandsFolder = fs.readdirSync(`./src/commands`)
 
         for (const folder of commandsFolder) {
@@ -22,7 +22,7 @@ module.exports = (client) => {
         }
 
         const clientID = '1036840121573580871' 
-        const guildID = 'Change this to the server you want to add the bot in'
+        const guildID = '[Server ID HERE]'
                         
         const rest = new REST({ version: '9' }).setToken(process.env.token)
 

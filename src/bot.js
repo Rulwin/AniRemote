@@ -24,9 +24,9 @@ for (const folder of functionFolder){
         require(`./functions/${folder}/${file}`)(client)
 }
 
-client.events()
-client.commands()
-client.components()
+client.Events()
+client.Commands()
+client.Components()
 
 client.login(token)
 

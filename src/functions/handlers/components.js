@@ -1,7 +1,7 @@
 const {readdirSync} = require('fs')
 
 module.exports = (client) => {
-    client.components = async() => {
+    client.Components = async() => {
         const componentFolders = readdirSync(`./src/components`)
         for (const folder of componentFolders){
             const componentFiles =
