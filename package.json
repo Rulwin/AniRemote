@@ -1,0 +1,20 @@
+{
+  "name": "aniremote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rulwin/AniRemote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rulwin/AniRemote/issues"
+  },
+  "homepage": "https://github.com/Rulwin/AniRemote#readme"
+}
