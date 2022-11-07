@@ -2,7 +2,7 @@
 AniRemote is a dumb discord.js bot that uses vlc to stream anime. 
 
 ## Installation
-git clone https://github.com/Rulwin/AniRemote.git
+just clone the project using [git]
 aniRemote.
 
 ## Config
