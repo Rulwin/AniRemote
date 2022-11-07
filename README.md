@@ -19,7 +19,9 @@ const guildID = '[Server ID HERE]'
 ## SPECIAL THANKS TO
 https://www.youtube.com/c/FusionTerror,
 
-https://github.com/alexandrucancescu/node-vlc-client
+https://github.com/alexandrucancescu/node-vlc-client,
+
+https://github.com/consumet/consumet.ts
 
 ## Contributing
 do what ever you want i don't care 
